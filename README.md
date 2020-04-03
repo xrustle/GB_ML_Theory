@@ -31,3 +31,6 @@
 * Обрезка деревьев (прунинг)
 * Работа деревьев в случае пропущенных значений
 * Работа деревьев с категориальными признаками
+### [Урок 5](https://github.com/xrustle/GB_ML_Theory/tree/master/Lesson_5)
+* Случайный лес
+* Bagging (Bootstrap aggregation)
