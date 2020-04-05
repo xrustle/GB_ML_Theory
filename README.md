@@ -34,3 +34,6 @@
 ### [Урок 5](https://github.com/xrustle/GB_ML_Theory/tree/master/Lesson_5)
 * Случайный лес
 * Bagging (Bootstrap aggregation)
+### [Урок 6](https://github.com/xrustle/GB_ML_Theory/tree/master/Lesson_6)
+* Градиентный бустинг (AdaBoost)
+* Стохастический градиентный бустинг
