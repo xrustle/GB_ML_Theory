@@ -37,3 +37,6 @@
 ### [Урок 6](https://github.com/xrustle/GB_ML_Theory/tree/master/Lesson_6)
 * Градиентный бустинг (AdaBoost)
 * Стохастический градиентный бустинг
+### [Урок 7](https://github.com/xrustle/GB_ML_Theory/tree/master/Lesson_7)
+* k-NN
+* k-means
